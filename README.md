@@ -1,6 +1,6 @@
 make as merge check out test
 kan kan git diff
-
+make as merge # test
 
 ssssssss
 

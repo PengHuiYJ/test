@@ -1,4 +1,4 @@
-# test
+make as merge # test
 
 这是我的第一个分支
 

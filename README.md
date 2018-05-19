@@ -1,4 +1,4 @@
-check out test
+make as merge check out test
 kan kan git diff
 
 
